@@ -23,7 +23,7 @@ Shani.code-workspace
 # Ignore all files in params/ subfolder, except JSON files
 params/**
 **/*.json
-!code\basic_args.json
+!code/basic_args.json
 
 # Ignore all temporary files in code/ and its subfolders
 code/**/*.temp
