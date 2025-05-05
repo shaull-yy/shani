@@ -1,0 +1,15 @@
+{
+	"log_file_name": "C:\\_Shaul\\Python\\_Shani\\data\\synthetic_genome_data_v01.log",
+	"default_param_file": "C:\\_Shaul\\Python\\_Shani\\params\\genome_data_params_v01.xlsx",
+	"default_data_file": "p",
+	"print_validation_info_ind": "False",
+	"gui_ind": "False",
+	"instructions": 
+					{
+					"log_file_name": "Values: Empty or File absulote path & file name. If empty, log file will not be created.",
+					"default_param_file": "Values: Empty, m, absolute path & file name. If empty or m (m=manual), the program will ask user to select parameter file",
+					"default_data_file": "Values: Empty, m, p, absolute path & file name. \n      If empty or m (m=manual), the program will ask user to select parameter file. \n      If p, the program will take the data file from the parameter file",
+					"print_validation_info_ind": "Values: True, False. If True, the program will print the first few lines of the dataframes for verification \n      Empty treated as False",
+					"gui_ind": "Values: True, False. If True, the program uses GUI for some of the ineractions with the user \n      Empty treated as False"
+					}
+}
