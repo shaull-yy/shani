@@ -1,0 +1,32 @@
+# Ignore Python cache files and folders
+**/__pycache__/
+**/*.pyc
+
+# Ignore temporary and backup files
+**/*.tmp
+**/*.bak
+
+# Ignore virtual environment if created within any folder
+**/venv/
+
+# Ignore logs or debug files in any folder
+**/*.log
+
+# Ignore data files
+data/**
+
+# Ignore IDE-specific files (e.g., VS Code, PyCharm) in any folder
+**/.vscode/
+Shani.code-workspace
+**/.idea/
+
+# Ignore all files in params/ subfolder, except JSON files
+params/**
+**/*.json
+!code\basic_args.json
+
+# Ignore all temporary files in code/ and its subfolders
+code/**/*.temp
+
+# Example: Ignore a specific script in any location with a given name
+**/temporary_script.py
