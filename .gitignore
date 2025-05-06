@@ -24,6 +24,7 @@ Shani.code-workspace
 params/**
 **/*.json
 !code/basic_args.json
+!**/*param_template*.*
 
 # Ignore all temporary files in code/ and its subfolders
 code/**/*.temp
