@@ -2,6 +2,7 @@
 **/__pycache__/
 **/*.pyc
 **/*.pdf
+**/*.png
 
 # Ignore temporary and backup files
 **/*.tmp
