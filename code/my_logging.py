@@ -155,7 +155,7 @@ class my_logging:
             msg_newline_before = True
             msg_newline_after = True
             self.errors_count +=1
-        elif self.err_level == 'A':
+        elif self.err_level == 'A':  #A - User to take an action message
             msg_prefix = ''
             msg_newline_before = True
             self.take_action_count += 1

@@ -3,7 +3,7 @@
 	"default_param_file": "C:\\_Shaul\\Python\\_Shani\\params\\genome_data_params_v01.xlsx",
 	"default_data_file": "p",
 	"print_validation_info_ind": "False",
-	"gui_ind": "False",
+	"gui_ind": "True",
 	"instructions": 
 					{
 					"log_file_name": "Values: Empty or File absulote path & file name. If empty, log file will not be created.",
